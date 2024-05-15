@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: content-api
-        image: <change_to_your_acr>.azurecr.io/api:1.0
+        image: eonacrak658.azurecr.io/api:1.0
         resources:
           requests:
             cpu: 500m
