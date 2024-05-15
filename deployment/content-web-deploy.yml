@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: content-web
-        image: eonacr658.azurecr.io/samples/web:1.0
+        image: eonacrak658.azurecr.io/samples/web:1.0
         resources:
           requests:
             cpu: 500m
